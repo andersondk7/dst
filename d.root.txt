@@ -1,1 +1,1 @@
-this is the initial verison of dst/d.root.txt
+this is the first round of changes to dst/d.root.txt
